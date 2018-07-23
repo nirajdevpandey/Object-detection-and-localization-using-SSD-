@@ -7,6 +7,10 @@ SSD(Single Shot MultiBox Detector) is a state-of-art object detection algorithm,
 
 Also, SSD currently performs good at PASCAL VOC Challenge, see [http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=3](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=3)
 
+## SSD Architecture 
+Below find the architectural defference between Yolo and SSD. 
+![title](https://github.com/nirajdevpandey/Object-detection-and-localization-using-SSD-/blob/master/Assets/Yolo_vs_SSD.png)
+
 ## References
 
 My work is just playing with this fantastic algorithm, and see the detection result of my own. Many many thanks goes to the author of the SSD paper. 
