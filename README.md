@@ -39,8 +39,10 @@ The multibox loss is consist of `L1 smooth loss` and `softmax` loss. Let's see h
 	tensor of shape (?, num_boxes, 4).
     y_pred: Predicted bounding boxes,
 	tensor of shape (?, num_boxes, 4).
+	
 `Returns`
     l1_loss: L1-smooth loss, tensor of shape (?, num_boxes).
+    
 `References` - https://arxiv.org/abs/1504.08083
 
 ```python
@@ -57,8 +59,10 @@ Now let's walk through the `softmax` loss
 	tensor of shape (?, num_boxes, num_classes).
     y_pred: Predicted logits,
 	tensor of shape (?, num_boxes, num_classes).
+	
 `Returns`
     softmax_loss: Softmax loss, tensor of shape (?, num_boxes).
+    
 
 ```python
 def _softmax_loss(self, y_true, y_pred):
