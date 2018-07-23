@@ -37,3 +37,7 @@ dataset can be downloaded from [http://host.robots.ox.ac.uk/pascal/VOC/, use The
 
 Weights can be downloaded at [https://drive.google.com/file/d/0B5o_TPhUdyJWWEl5WG1lcUxCZzQ/view?usp=sharing](https://drive.google.com/file/d/0B5o_TPhUdyJWWEl5WG1lcUxCZzQ/view?usp=sharing)
 
+
+## Hint
+
+The folder called Data-set has just 5-10 samples of the VOC-2007. to train your own model please download the entire data set by clicking on the link above. Thanks 
