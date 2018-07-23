@@ -11,9 +11,7 @@ Also, SSD currently performs good at PASCAL VOC Challenge, see [http://host.robo
 Below find the architectural defference between Yolo and SSD. 
 ![title](https://github.com/nirajdevpandey/Object-detection-and-localization-using-SSD-/blob/master/Assets/Yolo_vs_SSD.png)
 
-## References
-
-My work is just playing with this fantastic algorithm, and see the detection result of my own. Many many thanks goes to the author of the SSD paper. 
+ 
 
 ## Guides
 
@@ -85,3 +83,7 @@ Weights can be downloaded at [https://drive.google.com/file/d/0B5o_TPhUdyJWWEl5W
 ## Hint
 
 The folder called Data-set has just 5-10 samples of the VOC-2007. to train your own model please download the entire data set by clicking on the link above. Thanks 
+
+## References
+
+My work is just playing with this fantastic algorithm, and see the detection result of my own. Many many thanks goes to the author of the SSD paper
